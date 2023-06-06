@@ -7,5 +7,5 @@ images:
   newTag: 7.0.0
 
 resources:
-- deployment.yaml
-- service.yaml
+- ./manifests/deployment.yaml
+- ./manifests/service.yaml
